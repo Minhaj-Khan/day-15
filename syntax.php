@@ -109,6 +109,13 @@
 //                    echo $z;
 //                }
 
+//                function demo()
+//                {
+//                    echo "Hello World";
+//                }
+//
+//                demo();
+
 
 
 
